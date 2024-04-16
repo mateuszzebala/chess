@@ -1,0 +1,6 @@
+asgiref==3.8.1
+channels==3.0.4
+chess==1.10.0
+Django==4.0
+sqlparse==0.4.4
+django-cors-headers==4.0.0
