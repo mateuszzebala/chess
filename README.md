@@ -35,7 +35,7 @@ and for back is 8000 you can change it in env files
 3. Sqlite
 
 
-### Some screenshots:
+### A couple of screenshots:
 
 ![game](screenshots/game.png)
 ![newgame](screenshots/newgame.png)
